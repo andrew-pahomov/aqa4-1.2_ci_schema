@@ -28,7 +28,7 @@
       },
       "currency": {
         "type": "string",
-        "pattern": "(USD|RUB)"
+        "pattern": "(^USD$|^RUB$)"
       }
     }
   }
